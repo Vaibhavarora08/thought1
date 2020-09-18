@@ -1,0 +1,8 @@
+ami                 = "ami-03fac5402e10ea93b"
+public_key_path     = "/home/ubuntu/.ssh/media.pub"
+key_name            = "media"
+web_instance_type   = "t2.micro"
+db_instance_type    = "t2.micro"
+aws_profile         = "mediawiki"
+mw_vpc		    = "vpc-00870d8aef805784e"
+my_igw		    = "igw-0d74c1aa7b17a1461"
